@@ -295,10 +295,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+**HAMZA**
+- GitHub: [@hac1o](https://github.com/hac1o)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hamza-ali-17ab15267/)
 
 ---
 
@@ -306,6 +305,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **If you found this project helpful, consider giving it a ⭐!**
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/cypress-api-automation?style=social)](https://github.com/YOUR_USERNAME/cypress-api-automation/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/hac1o/cypress-api-automation?style=social)](https://github.com/hac1o/cypress-api-automation/stargazers)
 
 </div>
