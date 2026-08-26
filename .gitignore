@@ -11,7 +11,7 @@ cypress/downloads/
 allure-results/
 allure-report/
 
-# Environment-specific files (NEVER commit secrets)
+# Environment-specific files
 config/prod.json
 config/alpha.json
 config/dev.json
