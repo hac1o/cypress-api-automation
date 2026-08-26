@@ -9,16 +9,6 @@
 
 ---
 
-## 📸 Preview
-
-| Dashboard | Test Steps | Attachments |
-|-----------|------------|-------------|
-| ![Allure Dashboard](https://via.placeholder.com/400x250/2ECC71/FFFFFF?text=Allure+Dashboard) | ![Test Steps](https://via.placeholder.com/400x250/3498DB/FFFFFF?text=Test+Steps) | ![Attachments](https://via.placeholder.com/400x250/E74C3C/FFFFFF?text=API+Payloads) |
-
-*Replace these placeholder images with screenshots from your actual Allure report!*
-
----
-
 ## 🏗️ Architecture Overview
 
 ```
@@ -297,7 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **HAMZA**
 - GitHub: [@hac1o](https://github.com/hac1o)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hamza-ali-17ab15267/)
+- LinkedIn: [Profile](https://www.linkedin.com/in/hamza-ali-17ab15267/)
 
 ---
 
