@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "allure": "^3.13.2",
+    "allure-commandline": "^2.43.0",
+    "allure-cypress": "^3.10.2",
+    "cypress": "^15.18.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "ajv": "^8.20.0",
+    "dotenv": "^17.4.2",
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^4.4.1",
+    "mochawesome-report-generator": "^6.3.2"
+  },
+  "name": "api-automation---cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

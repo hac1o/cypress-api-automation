@@ -1,0 +1,8 @@
+{
+  "base_url": "https://devapi.smartcielo.com",
+  "xApiKey": "123",
+  "email": "hamza@dev.com",
+  "password": "12345678",
+  "childEmail":"hamza1@dev.com",
+  "childPassword":"12345678"
+}

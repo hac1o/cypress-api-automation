@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Cypress generated files
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Allure generated reports
+allure-results/
+allure-report/
+
+# Environment-specific files (NEVER commit secrets)
+config/prod.json
+config/alpha.json
+
+# IDE and OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.zip
+for review.zip
+reports/
+
+# Keep dev.json as example but warn about secrets
+# config/dev.json
